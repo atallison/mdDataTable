@@ -1,13 +1,6 @@
 {
-  "name": "md-data-table",
-  "version": "2.2.0",
-  "author": "Istvan Fodor <programtervezo@gmail.com>",
-  "registry": "github",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/iamisti/mdDataTable"
-  },
-  "license": "MIT",
+  "name": "atallison-md-data-table",
+  "version": "2.2.3",
   "devDependencies": {
     "codeclimate-test-reporter": "~0.1.1",
     "event-stream": "~3.3.4",
